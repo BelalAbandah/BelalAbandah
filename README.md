@@ -1,16 +1,43 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Belal</h1></summary>
+  </ul>
+</div>
 
-<!--
-**BelalAbandah/BelalAbandah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align=left>
+        <br>
+        <p>
+            <strong>
+                 A Passionate Full-Stack Developer eager to start my career where I can improve my skills and get
+ experience.<br><br>
+                I specialize in JavaScript, HTML,CSS, React, Next, Node.js, and databases like MongoDB and
+ PostgreSQL.<br><br>
+            </strong>
+        </p>
+        <ul>
+            <li>🔭 🔭 I’m currently working on **React, Next, Nodejs, MongoDB, PostgreSQL**</li>
+            <li>🌱 <b>I’m currently learning </b>: **Bootstrap** </li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.com/resume/wd86f3sjsnbe">LINK TO MY RESUME</a>.</li>
+            <li>📫<b>Feel free to reach me out</b>:  **BelalAbandah@gmail.com**</li>
+        </ul>
+    </div>
+    <br><br>
+    ## 🚀 Projects
+    ### 🔹 <a href="https://github.com/C14-BelalAbandah/MERAKI_Academy_Project_4">JobSphere</a>.
+    ### 🔹 <a href="https://github.com/HealthStackers/MERAKI_Academy_Project_5-">MEDIVO</a>.
+     <br><br>
+## 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+
