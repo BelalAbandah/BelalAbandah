@@ -16,7 +16,7 @@
             </strong>
         </p>
         <ul>
-            <li>🔭<b> I’m currently working on **React, Next, Nodejs, MongoDB, PostgreSQL**</b></li>
+            <li>🔭<b> I’m currently working on</b>: **React, Next, Nodejs, MongoDB, PostgreSQL**</li>
             <li>🌱 <b>I’m currently learning </b>: **Bootstrap** </li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.com/resume/wd86f3sjsnbe">LINK TO MY RESUME</a>.</li>
             <li>📫<b>Feel free to reach me out</b>:  **BelalAbandah@gmail.com**</li>
