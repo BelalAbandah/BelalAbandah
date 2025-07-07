@@ -24,6 +24,7 @@
     </div>
     <br><br>
     ## 🚀 Projects
+      <br><br>
     ### 🔹 <a href="https://github.com/C14-BelalAbandah/MERAKI_Academy_Project_4">JobSphere</a>.
     <br><br>
     ### 🔹 <a href="https://github.com/HealthStackers/MERAKI_Academy_Project_5-">MEDIVO</a>.
