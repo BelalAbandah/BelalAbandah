@@ -17,8 +17,8 @@
         </p>
         <ul>
             <li>🔭<b> I’m currently working on</b>: React, Next, Nodejs, MongoDB, PostgreSQL</li>
-            <li>🌱 <b> I’m currently learning </b>: Bootstrap </li>
-            <li>🤔 <b>I’m urrently open for</b>: A new job opportunity, <a href="https://flowcv.com/resume/wd86f3sjsnbe">LINK TO MY RESUME</a>.</li>
+            <li>🌱 <b> I’m currently learning </b>: Nestjs </li>
+            <li>🤔 <b>I’m urrently open for</b>: A new job opportunity, <a href="https://flowcv.com/resume/a9vc2jnglgm1">LINK TO MY RESUME</a>.</li>
             <li>📫<b>Feel free to reach me out</b>:  BelalAbandah@gmail.com</li>
         </ul>
     </v>
@@ -34,11 +34,14 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
