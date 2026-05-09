@@ -16,7 +16,7 @@
   <ul>
     <li>🔭 <b>I’m currently working on:</b> React, Next.js, Node.js, MongoDB, PostgreSQL</li>
     <li>🌱 <b>I’ve finished learning:</b> NestJS</li>
-    <li>📚 <b>I’m currently learning:</b> C#</li>
+    <li>📚 <b>I’m currently learning:</b> C# And ASP.net</li>
     <li>🤔 <b>I’m currently open for:</b> A new job opportunity, <a href="https://flowcv.com/resume/a9vc2jnglgm1">LINK TO MY RESUME</a></li>
     <li>📫 <b>Feel free to reach me out:</b> BelalAbandah@gmail.com</li>
   </ul>
